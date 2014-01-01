@@ -1,5 +1,5 @@
 {
-  "name": "d3-min",
+  "name": "d3-browserify",
   "version": "3.3.13",
   "description": "A small, free JavaScript library for manipulating documents based on data.",
   "keywords": [
@@ -23,9 +23,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zcbenz/d3-min.git"
+    "url": "https://github.com/zcbenz/d3-browserify.git"
   },
   "main": "index-browserify.js",
+  "browserify": "index-browserify.js",
   "licenses": [
     {
       "type": "BSD",
