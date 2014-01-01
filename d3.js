@@ -1,4 +1,4 @@
-d3 = function() {
+module.exports = function() {
   var d3 = {
     version: "3.3.13"
   };

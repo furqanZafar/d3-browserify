@@ -25,8 +25,8 @@
     "type": "git",
     "url": "https://github.com/zcbenz/d3-browserify.git"
   },
-  "main": "index-browserify.js",
-  "browserify": "index-browserify.js",
+  "main": "d3.js",
+  "browserify": "d3.js",
   "licenses": [
     {
       "type": "BSD",
