@@ -1,6 +1,6 @@
 {
   "name": "d3-browserify",
-  "version": "3.3.13",
+  "version": "3.4.11",
   "description": "A small, free JavaScript library for manipulating documents based on data.",
   "keywords": [
     "dom",
